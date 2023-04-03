@@ -8,7 +8,11 @@ IST 659 Database Administration Concepts and Database Management
 Jay Maru
 Soham Nanavati
 Anjali Shahi
- 
+
+Project Demo Link
+
+https://youtu.be/mEEb--CdqGU
+
 
 Business Problem
  
@@ -76,9 +80,7 @@ Logical Data Model
 ![image](https://user-images.githubusercontent.com/37181092/196719324-068e0396-9c43-496a-bab9-8a9191c0fecf.png)
 
 
-Project Link
 
-https://youtu.be/mEEb--CdqGU
 
 
 
